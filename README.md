@@ -10,6 +10,8 @@ The website opens with all 111 results being shown as a table near the bottom of
 through the browser, although a built in feature would be much more useful, and allow visitors to filter by multiple fields. As seen below, results with multiple filters applied
 are much more digestible. It is important to note that in the example that the lighter gray text is simply a placeholder value, and has no impact on the results.
 
+![Image](Images/FilteredData.png)
+
 # Summary
 
 One major drawback to the current design is that the visitor must know the exact information that they are looking for, and that all results must be typed in lowercase characters.
